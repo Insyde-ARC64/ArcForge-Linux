@@ -4,6 +4,8 @@ A full-fledged linux distribtuion developed to inject a new life in old PCs and 
 
 Built with Debian GNU/Linux 13.6 Trixie as the base system amd64/x64/x86_64 (64-bit) variant. 
 
+<img width="1536" height="1024" alt="ArcForge Linux Boot logo" src="https://github.com/user-attachments/assets/9111e9a4-661b-4f46-83bf-147fecf79da5" />
+
 <img width="1366" height="768" alt="ArcForge Screenshot3" src="https://github.com/user-attachments/assets/828b182a-c4ec-4ec8-bb98-e7de3b6bf473" />
 <img width="1366" height="768" alt="ArcForge Screenshot4" src="https://github.com/user-attachments/assets/b2f063b8-62b4-4d9b-b47f-f718cfd32ded" />
 

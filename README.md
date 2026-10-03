@@ -4,6 +4,9 @@ A full-fledged linux distribtuion developed to inject a new life in old PCs and 
 
 Built with Debian GNU/Linux 13.6 Trixie as the base system amd64/x64/x86_64 (64-bit) variant. 
 
+<img width="1366" height="768" alt="ArcForge Screenshot3" src="https://github.com/user-attachments/assets/828b182a-c4ec-4ec8-bb98-e7de3b6bf473" />
+<img width="1366" height="768" alt="ArcForge Screenshot4" src="https://github.com/user-attachments/assets/b2f063b8-62b4-4d9b-b47f-f718cfd32ded" />
+
 # Important notice
 ArcForge Linux needs a CPU with x86-64/x64/amd64 (64-bit) architecture to run. It would neither run on ARM chips (example: armv7a, armv8, armv9, RISC, etc.) nor on a i386/i586/i686 (32-bit) CPU..
 
